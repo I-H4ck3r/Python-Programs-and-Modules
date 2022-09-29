@@ -1,0 +1,26 @@
+	Welcome Div Retail
+ Bill Number : 5837
+ Customer Name : Harsh Teotia 
+ Phone Number : 8865933449
+=======================================
+ Products		QTY		Price
+=======================================
+=======================================
+ Bath Soap		1		50
+ Face Wash		1		90
+ Hair Spray		1		200
+ Body Lotion		1		340
+ Bath Soap		1		80
+ Daal		2		140
+ Sugar		1		60
+ Coca Cola		1		70
+---------------------------------------
+ Cosmetic Tax			Rs. 34.0
+ Grocery Tax			Rs. 28.0
+ Cold Drink Tax			Rs. 3.5
+---------------------------------------
+---------------------------------------
+ Total Price			1030.0
+ Total Tax			65.5
+ Total Bill			1095.5
+---------------------------------------
