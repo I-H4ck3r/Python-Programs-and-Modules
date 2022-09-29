@@ -1,4 +1,7 @@
-A billing system for a general store with functions such as print, calculate and search amongst old bills. 
+
+**BILLING_SYS**
+
+BILLING SYSTEM for a general store with functions such as print, calculate and search amongst old bills. 
 Python Tkinter Module is used to create a Graphic user Interface and it gives a beautiful UI design to the normal python functions and commands. 
 In main window, different components such as: 
 Button 
